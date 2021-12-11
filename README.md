@@ -9,7 +9,7 @@ You Need Both Python And Python3
 ```bash
 colorama
 
-## How To Run
+# How To Run
 
-```
+```bash
 python3 Htermux.py
