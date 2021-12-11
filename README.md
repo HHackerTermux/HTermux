@@ -8,8 +8,9 @@ You Need Both Python And Python3
 ## required packages
 ```bash
 colorama
-
+```
 # How To Run
 
-```bash
+```python
 python3 Htermux.py
+```
